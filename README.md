@@ -46,13 +46,13 @@ ATM Machine Features:
 - Withdraw cash
 - Deposit cash
 - Transfer funds
-- *View transaction history*
-- *Download transaction history as a CSV file*
+- **View transaction history**
+- **Download transaction history as a CSV file**
 
 ### Implementation
 We will begin by refactoring our code from the white belt level case study to use JavaScript objects to represent the account data and transactions. We will also use JSON to store the account data and transaction history in a file.
 
-Next, we will use some of the new features introduced in ECMAScript 6+ such as *let* and *const* declarations, arrow functions, and template literals to make our code more concise and readable.
+Next, we will use some of the new features introduced in ECMAScript 6+ such as ```let``` and ```const``` declarations, arrow functions, and template literals to make our code more concise and readable.
 
 We will use asynchronous programming and callbacks to handle file operations and API requests. We will also use Node.js modules to organize our code into separate files.
 
@@ -78,7 +78,7 @@ ATM Machine Features:
 - *Transfer funds to other banks*
 - View transaction history
 - Download transaction history as a CSV file
-- *REST API*
+- **REST API**
 
 ### Implementation
 We will begin by using design patterns such as the Factory and Prototype patterns to make our code more modular and maintainable.
@@ -108,15 +108,15 @@ ATM Machine Features:
 - View transaction history
 - Download transaction history as a CSV file
 - REST API
-- *Real-time chat feature using Socket.IO*
-- *Caching layer using Redis
-- *Asynchronous tasks using RabbitMQ
-- *Task scheduling
-- *Graph database and GraphQL
-- *PM2 process manager
-- *Deployment to AWS
-- *Pug template engine for dynamic views
-- *Ability to pay bills and purchase items online
+- **Real-time chat feature using Socket.IO**
+- **Caching layer using Redis**
+- **Asynchronous tasks using RabbitMQ**
+- **Task scheduling**
+- **Graph database and GraphQL**
+- **PM2 process manager**
+- **Deployment to AWS**
+- **Pug template engine for dynamic views**
+- **Ability to pay bills and purchase items online**
 
 ### Implementation
 We will begin by implementing a real-time chat feature using Socket.IO. This will allow users to communicate with customer service representatives in real-time.
